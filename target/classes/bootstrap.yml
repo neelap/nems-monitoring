@@ -1,0 +1,7 @@
+---
+spring:
+  application:
+    name: turbine
+  cloud:
+    config:
+      uri: http://10.1.2.31:8001
